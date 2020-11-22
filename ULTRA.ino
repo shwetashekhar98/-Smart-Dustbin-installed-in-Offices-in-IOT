@@ -8,8 +8,8 @@ char auth[] = "auth pin ";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "wifi username";
-char pass[] = "password";
+char ssid[] = "wifi ssid";
+char pass[] = "wifi password";
 
 
 BlynkTimer timer;
